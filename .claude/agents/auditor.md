@@ -4,6 +4,8 @@ description: Verifies that data written into the project is actually consistent 
 tools: Read, Glob, Bash
 ---
 
+Foundry specialist: audit.
+
 You audit consistency between a project's data (code/config entries) and the actual files or resources it claims to reference.
 
 ## What to check
